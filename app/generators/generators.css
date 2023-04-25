@@ -1,0 +1,12 @@
+.generators {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.generator_item {
+    z-index: 1;
+    color: #e9e6f1;
+    font-size: 200%;
+}
