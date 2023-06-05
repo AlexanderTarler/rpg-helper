@@ -4,6 +4,7 @@
     outline: none;
     box-sizing: border-box;
     font-family: 'Work Sans', sans-serif;
+    background-color: black;
 }
 
 #header {
@@ -14,4 +15,14 @@
 
 #title {
     color: gold;
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    border: 5px solid yellow;
+    height: 80vh;
 }

@@ -17,7 +17,6 @@ header {
 nav {
     display: flex;
     padding: 10px;
-    /* margin-top: 50px; */
     align-items: center;
     background: transparent;
     z-index: 300;
